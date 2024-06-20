@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtecVeiculos.Api", "EtecVeiculos.Api\EtecVeiculos.Api.csproj", "{FA71C3DE-2E73-487B-AB80-E448FF663CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtecVeiculos.UI", "EtecVeiculos.UI\EtecVeiculos.UI.csproj", "{8B17DA29-F858-4C20-9DFC-2248786EE37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA71C3DE-2E73-487B-AB80-E448FF663CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA71C3DE-2E73-487B-AB80-E448FF663CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA71C3DE-2E73-487B-AB80-E448FF663CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA71C3DE-2E73-487B-AB80-E448FF663CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B17DA29-F858-4C20-9DFC-2248786EE37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B17DA29-F858-4C20-9DFC-2248786EE37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B17DA29-F858-4C20-9DFC-2248786EE37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B17DA29-F858-4C20-9DFC-2248786EE37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
